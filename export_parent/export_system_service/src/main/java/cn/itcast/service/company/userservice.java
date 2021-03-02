@@ -5,4 +5,8 @@ public class userservice {
         int i=1;
         int k=2;
     }
+
+    public static void m1(String[] args) {
+
+    }
 }
